@@ -1,7 +1,0 @@
-{
-"email": "felix.iov64408+redditapi@gmail.com",
-"username": "mundane-addiction",
-"password": "truthisstrangerthanfiction",
-"ClientID": "xVy1yWnODTpzmFbKyHZOiA",
-"SecretKey": "FCxjmFrK6C0YVh1wdaYMa4JQjkr7YA"
-}
